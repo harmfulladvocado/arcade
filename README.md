@@ -5,11 +5,10 @@ A terminal arcade written in Rust. It runs a menu with three playable games (Sna
 ## Table of contents
 
 - [Features](#features)
-- [Architecture](#architecture)
-  - [Entry point](#entry-point)
-  - [Game modules](#game-modules)
-  - [Audio](#audio)
-  - [Module map](#module-map)
+- [Entry point](#entry-point)
+- [Game modules](#game-modules)
+- [Audio](#audio)
+- [Module map](#module-map)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Build from source](#build-from-source)
